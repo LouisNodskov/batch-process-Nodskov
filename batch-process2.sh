@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Colourise the output
+# Colorise the output
 RED='\033[0;31m'        # Red
 GRE='\033[0;32m'        # Green
 YEL='\033[1;33m'        # Yellow
